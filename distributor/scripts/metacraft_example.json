@@ -1,0 +1,42 @@
+[
+  { "address": "0x097a3a6ce1d77a11bda1ac40c08fdf9f6202103f", "score": 100, "creature": "cat" },
+  {
+    "address": "0xfa6863a6507c94ed52e9276f8a72479924e77a36",
+    "score": 200,
+    "creature": "dog"
+  },
+  {
+    "address": "0xef6fe9c9b351824c96e5c7a478c1e52badcbaee0",
+    "score": 300,
+    "creature": "bee"
+  },
+  {
+    "address": "0x397aca36ab63dbc1bdafc65a9916dcaee6c94e60",
+    "score": 500,
+    "creature": "cow"
+  },
+  {
+    "address": "0x08d816526bdc9d077dd685bd9fa49f58a5ab8e48",
+    "score": 30,
+    "creature": "turtle"
+  },{
+    "address": "0xfa6863a6507c94ed52e9276f8a72479924e77a31",
+    "score": 200,
+    "creature": "dog"
+  },
+  {
+    "address": "0xef6fe9c9b351824c96e5c7a478c1e52badcbaee2",
+    "score": 300,
+    "creature": "bee"
+  },
+  {
+    "address": "0x397aca36ab63dbc1bdafc65a9916dcaee6c94e63",
+    "score": 500,
+    "creature": "cow"
+  },
+  {
+    "address": "0x08d816526bdc9d077dd685bd9fa49f58a5ab8e44",
+    "score": 30,
+    "creature": "turtle"
+  }
+]
